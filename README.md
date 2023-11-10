@@ -1,4 +1,4 @@
-# BlueOrigin Clone Homepage
+# BlueOrigin Shop Website
 
 ###### Purpose:
     
